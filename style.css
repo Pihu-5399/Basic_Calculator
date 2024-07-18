@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height:100vh;
-    background:linear-gradient(45deg,rgb(133, 133, 143),rgb(51, 51, 187));
+    background:linear-gradient(45deg,rgb(133, 133, 143),rgb(103, 51, 187));
     display: flex;
     justify-content: center;
     align-items:center;
@@ -54,7 +54,7 @@ button{
     background-color:#fb7614;
 }
 .operators{
-    color: rgb(140, 14, 14);
+    color: rgb(0, 0, 0);
     font-size:larger;
 }
 .delete{
